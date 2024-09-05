@@ -1,4 +1,4 @@
-# **👋 Hello there, My name is Kyrellos Ibrahim!**
+# **👋 Hello there, I'm is Kyrellos Ibrahim!**
 
 I'm a third-year Computer Science student at Belmont University, passionate about developing software apps and creating innovative programming solutions.
 
