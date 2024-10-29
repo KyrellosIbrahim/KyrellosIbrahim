@@ -19,9 +19,9 @@ Bachelor of Science in Computer Science, GPA 3.8/4.0 Belmont University
   - Collaborated as part of a professor-led research team, showcasing strong teamwork and project participation skills.
 
 ### **🛠️ Skills**
-- Languages: Java, Python, Kotlin, JavaScript, SQL
+- Languages: Java, Python, Kotlin, C++, JavaScript, TypeScript, HTML/CSS, SQL
 - Technologies: GitHub, Git, Bash, AWS
-- Tools: JetBrains ToolBox, Android Studio, Jupyter Notebook, Colab,
+- Tools: JetBrains ToolBox, Android Studio, Jupyter Notebook, Colab, Firebase
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Sklearn
 
 🌱 currently looking into making a mobile app using TypeScript that is compatible on Android and iOS, using technologies such as Firebase and React.
