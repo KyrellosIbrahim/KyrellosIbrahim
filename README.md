@@ -7,7 +7,7 @@ Bachelor of Science in Computer Science, GPA 3.8/4.0 Belmont University
 
 
 ### **🌟 Featured Projects**
-- [Hangman Game](https://github.com/KyrellosIbrahim/HangmanGame): Developed a two-player Hangman game using Python, where one player chooses a word, and the other attempts to guess it within a limited number of tries. The game includes features like input validation for smooth gameplay and a user-friendly interface that handles incorrect guesses, displays the current state of the word, and tracks remaining attempts.
+- [MunchFeed App](https://github.com/minash23/MunchFeed): Developed a social media app where users can take pictures of their chosen meal for the day and post it for friends to see. implemented social features sucha as commenting and leaving notes on friend's profiles. Made using React Native and Firebase for data handling.
 - [Maze Game](https://github.com/KyrellosIbrahim/mazeGame): Created a Java-based maze-solving game where a rat must find its way to a piece of cheese. The program reads maze layouts from text files, allowing dynamic scaling of the maze dimensions. It efficiently finds the shortest path from the start to the goal using the A* algorithm. This project showcases advanced algorithmic thinking, file parsing, and object-oriented programming principles in Java.
 - [File Organization Script](https://github.com/KyrellosIbrahim/ImageFileSorter): Designed a Python script to automate the process of organizing image files. The script scans the Downloads folder, identifies image files, and moves them to a specified destination folder, creating the folder if it doesn’t already exist. 
 
@@ -24,7 +24,7 @@ Bachelor of Science in Computer Science, GPA 3.8/4.0 Belmont University
 - Tools: JetBrains ToolBox, Android Studio, Jupyter Notebook, Colab, Firebase
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Sklearn
 
-🌱 currently looking into making a mobile app using TypeScript that is compatible on Android and iOS, using technologies such as Firebase and React.
+🌱 currently looking into making a portfolio to showcase my new interest in TypeScript and React!
 
 ### **📫 Connect with me!**
 [LinkedIn](https://www.linkedin.com/in/kyrellosibrahim/)
