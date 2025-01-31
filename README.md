@@ -24,7 +24,7 @@ Bachelor of Science in Computer Science, GPA 3.8/4.0 Belmont University
 - Tools: JetBrains ToolBox, Android Studio, Jupyter Notebook, Colab, Firebase
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Sklearn
 
-🌱 currently looking into making a portfolio to showcase my new interest in TypeScript and React!
+🌱 currently looking into manipulating and visualizing datasets.
 
 ### **📫 Connect with me!**
 [LinkedIn](https://www.linkedin.com/in/kyrellosibrahim/)
